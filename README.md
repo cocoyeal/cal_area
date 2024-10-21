@@ -1,2 +1,2 @@
 # cal_area
-calculate area of many rect
+calculate area of many rectangles on website
